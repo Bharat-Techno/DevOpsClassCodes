@@ -15,8 +15,6 @@ designed. Please note this example uses and requires Java 8 to work.
 
 <p align="center">
 
-<img src="docs/images/architecture.png" width="100%">
-
 </p>
 
 ![GitHub](https://img.shields.io/badge/GitHub-Source%20Control-black?logo=github)
