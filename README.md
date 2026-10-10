@@ -202,7 +202,6 @@ This repository is part of a larger Enterprise Platform Engineering portfolio.
 
 # 🏛 Enterprise Architecture
 
-> Replace this section with your Enterprise Architecture Hero Image.
 
 ```text
                                          Developer
